@@ -1,4 +1,5 @@
-document.getElementById('header-main').innerHTML=`
+document.addEventListener('DOMContentLoaded', function() {
+document.getElementById('header-main').innerHTML= `
 <div>
   <h1>
     <div>
@@ -57,4 +58,5 @@ document.getElementById('header-main').innerHTML=`
   </h1>
 </div>
 `;
+});
 // JavaScript Document
