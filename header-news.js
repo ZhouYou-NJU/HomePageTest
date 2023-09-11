@@ -30,12 +30,12 @@ document.getElementById('header-news').innerHTML = `
 		<td width="5%" height="5" bgcolor="#F2F1EB"></td>
 	  </tr>
 	  <tr>
-		<td width="5%" bgcolor="#F2F1EB" style="text-align: center">&nbsp;</td>
+		<td width="10%" bgcolor="#F2F1EB" style="text-align: center">&nbsp;</td>
 		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><span style="color: #000000"><a href="GroupPageColumn/news.html" style="font-size: 22px">研究组新闻</a></span></td>
 		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><a href="GroupPageColumn/progress.html" style="font-size: 22px">研究进展</a></td>
 		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><a href="GroupPageColumn/informal essay.html" style="font-size: 22px">动态与随想</a></td>
 		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><a href="index.html" style="font-size: 22px">返回首页</a></td>
-		<td width="5%" bgcolor="#F2F1EB" style="font-family: '微软雅黑'">&nbsp;</td>
+		<td width="10%" bgcolor="#F2F1EB" style="font-family: '微软雅黑'">&nbsp;</td>
 	  </tr>
 	  <tr>
 		<td width="5%" height="5" bgcolor="#F2F1EB"></td>
