@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<div id="header"></div>
+<div id="../header"></div>
 <div>
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -335,7 +335,7 @@
 <script>
     var headerContainer = document.getElementById('header');
     var headerContent = '';
-    fetch('header.html')
+    fetch('../header.html')
 		.then(response => response.text())
 		.then(data => {
 		headerContent = data;
