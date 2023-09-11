@@ -8,10 +8,7 @@ body {
 	transform: scale(0.80);
     transform-origin: top;*/
 }
-/*header {
-  width: auto;
-  height: auto;
-}*/
+
 .feet {
 	color: #FFF;
 	font-family: Georgia;
@@ -124,7 +121,10 @@ ol li:nth-child(3) {
  background-color: #fff;
 }
 }
-
+/*header {
+  width: auto;
+  height: auto;
+}*/
 /*body table {
 	color: #000;
 	text-align: center;
