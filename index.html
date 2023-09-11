@@ -2,8 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="/css/style.css">
 <title>南京大学工程医学研究组</title>
+<script src="/header-main.js"></script>
 </head>
 	
 <body>
@@ -174,17 +175,7 @@
         headerContainer.innerHTML = headerContent;
       });
 </script>-->
-<script>
-    if (!document.getElementById('header-main')) {
-        var headerContainer = document.createElement('div');
-        headerContainer.id = 'header-main';
-        document.body.prepend(headerContainer);
-
-        var headerScript = document.createElement('script');
-        headerScript.src = 'header-main.js'; // 替换成你的表头文件路径
-        document.body.appendChild(headerScript);
-    }
-</script>	
+	
 		
 </body>
 </html>
