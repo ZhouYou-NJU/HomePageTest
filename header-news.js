@@ -31,10 +31,10 @@ document.getElementById('header-news').innerHTML = `
       </tr>
       <tr>
         <td width="5%" height="5" bgcolor="#F2F1EB" style="font-family: '微软雅黑'; font-size: 24px;">&nbsp;</td>
-        <td width="15%" bgcolor="#F2F1EB" style="font-family: '微软雅黑'; font-size: 24px;"><span style="color: #000000"><a href="/GroupPageColumn/news.html">研究组新闻</a></span></td>
-        <td width="15%" height="5" bgcolor="#F2F1EB" style="font-family: '微软雅黑'"><a href="/GroupPageColumn/progress.html" style="font-size: 24px">研究进展</a></td>
-        <td width="15%" height="5" bgcolor="#F2F1EB" style="font-family: '微软雅黑'"><a href="/GroupPageColumn/informal essay.html" style="font-size: 24px">动态与随想</a></td>
-        <td width="15%" height="5" bgcolor="#F2F1EB" style="font-family: '微软雅黑'"><a href="/index.html" style="font-size: 24px">返回首页</a></td>
+        <td width="15%" bgcolor="#F2F1EB" style="font-family: '微软雅黑'; font-size: 24px;"><span style="color: #000000"><a href="GroupPageColumn/news.html">研究组新闻</a></span></td>
+        <td width="15%" height="5" bgcolor="#F2F1EB" style="font-family: '微软雅黑'"><a href="GroupPageColumn/progress.html" style="font-size: 24px">研究进展</a></td>
+        <td width="15%" height="5" bgcolor="#F2F1EB" style="font-family: '微软雅黑'"><a href="GroupPageColumn/informal essay.html" style="font-size: 24px">动态与随想</a></td>
+        <td width="15%" height="5" bgcolor="#F2F1EB" style="font-family: '微软雅黑'"><a href="index.html" style="font-size: 24px">返回首页</a></td>
         <td width="15%" height="15" bgcolor="#F2F1EB" style="font-family: '微软雅黑'">&nbsp;</td>
         <td width="15%" height="5" bgcolor="#F2F1EB" style="font-family: '微软雅黑'">&nbsp;</td>
         <td width="5%" bgcolor="#F2F1EB" style="font-family: '微软雅黑'; font-size: 24px;">&nbsp;</td>
