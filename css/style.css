@@ -8,30 +8,64 @@ body {
 */
 }
 
-.feet {
-	color: #FFF;
+.feet {       /* 底部文字*/
+	color: #FFFFFF;
+    text-align: left;
 	font-family: Georgia;
-	text-align: left;
 }
-.PeopleName {
-	font-family: Tahoma, Geneva, sans-serif;
-	text-align: center;
+.PeopleName {  /* 人名 */
 	color: #000000;
 	font-size: 24px;
+    font-family: "微软雅黑";
 }
-.MemberTable {
+.Title1 {   /* 大标题*/
+	color: #000000;
+	font-size: 20px;
+    font-family: "微软雅黑";
+}
+.Title2 {   /* 中标题*/
+	color: #000000;
+	font-size: 19px;
+	text-align: justify;
+    font-family: "微软雅黑";
+}
+.Hightlight1 {  /* 主页highlight*/
+	color: #B1040E;
+	font-size: 20px;
+	text-align: justify;
+    font-family: "微软雅黑";
+}
+/*.MemberTable {
 	padding: 10 px 5px 15px 5px;
-}
-a:link {
-	color: #000;
+}*/
+a:link {   /* 链接样式*/
+	color: #000000;
 	text-decoration: none;
+	font-family: "微软雅黑";
 }
 a:visited {
 	text-decoration: none;
 }
 a:hover {
+	color: #F2F1EB;
 	text-decoration: none;
 }
+.Title3 {   /* 小标题*/
+	color: #000000;
+	text-align: right;
+	font-family: "normal";
+}
+
+.Context1 {  /* 正文1*/
+	color: #000000;
+	font-size: 19px;
+	text-align: justify;
+	font-family: "微软雅黑";
+}
+
+
+/*
+
 a:active {
 	text-decoration: none;
 	font-size: 24px;
@@ -41,7 +75,9 @@ a:active {
 	text-align: left;
 	color: #000000;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-}
+}*/
+
+
 * {
 	padding: 0;
 	margin: 0;
@@ -50,6 +86,7 @@ a:active {
 li {
 	list-style: none;
 	float: left;
+	font-family: "微软雅黑";
 }
 ul img {
 	width: 500px;
