@@ -31,7 +31,7 @@ body {
 .Title2 {   /* 中标题*/
 	color: #000000;
 	font-size: 20px;
-	text-align: justify;
+	text-align: left;
     font-family: "微软雅黑";
 }
 .Hightlight1 {  /* 主页highlight*/
