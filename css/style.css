@@ -18,6 +18,11 @@ body {
 	font-size: 24px;
     font-family: "微软雅黑";
 }
+.author1 {
+	font-size: 20px; 
+	color: #333333; 
+	text-align: center;	
+}
 .Title1 {   /* 大标题*/
 	color: #000000;
 	font-size: 22px;
