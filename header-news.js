@@ -31,10 +31,10 @@ document.getElementById('header-news').innerHTML = `
 	  </tr>
 	  <tr>
 		<td width="10%" bgcolor="#F2F1EB" style="text-align: center">&nbsp;</td>
-		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><span style="color: #000000"><strong><a href="GroupPageColumn/news.html" style="font-size: 22px">研究组新闻</a></strong></span></td>
-		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><strong><a href="GroupPageColumn/progress.html" style="font-size: 22px">研究进展</a></strong></td>
-		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><strong><a href="GroupPageColumn/informal essay.html" style="font-size: 22px">动态与随想</a></strong></td>
-		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><strong><a href="index.html" style="font-size: 22px">返回首页</a></strong></td>
+		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><span style="color: #000000"><strong><a href="GroupPageColumn/news.html" style="font-size: 24px">研究组新闻</a></strong></span></td>
+		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><strong><a href="GroupPageColumn/progress.html" style="font-size: 24px">研究进展</a></strong></td>
+		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><strong><a href="GroupPageColumn/informal essay.html" style="font-size: 24px">动态与随想</a></strong></td>
+		<td width="20%" bgcolor="#F2F1EB" style="text-align: center"><strong><a href="index.html" style="font-size: 24px">返回首页</a></strong></td>
 		<td width="10%" bgcolor="#F2F1EB" style="font-family: '微软雅黑'">&nbsp;</td>
 	  </tr>
 	  <tr>

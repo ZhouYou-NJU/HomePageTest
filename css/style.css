@@ -15,23 +15,23 @@ body {
 }
 .PeopleName {  /* 人名 */
 	color: #000000;
-	font-size: 22px;
+	font-size: 24px;
     font-family: "微软雅黑";
 }
 .Title1 {   /* 大标题*/
 	color: #000000;
-	font-size: 20px;
+	font-size: 22px;
     font-family: "微软雅黑";
 }
 .Title2 {   /* 中标题*/
 	color: #000000;
-	font-size: 18px;
+	font-size: 20px;
 	text-align: justify;
     font-family: "微软雅黑";
 }
 .Hightlight1 {  /* 主页highlight*/
 	color: #B1040E;
-	font-size: 20px;
+	font-size: 19px;
 	text-align: justify;
     font-family: "微软雅黑";
 }
@@ -60,13 +60,13 @@ a:hover {
 
 .Context1 {  /* 正文1*/
 	color: #000000;
-	font-size: 18px;
+	font-size: 20px;
 	text-align: justify;
 	font-family: "微软雅黑";
 }
 .Mail1 {  /* 邮箱*/
 	color: #0B61E5;
-	font-size: 16px;
+	font-size: 18px;
 	font-family: "微软雅黑";
 }
 
