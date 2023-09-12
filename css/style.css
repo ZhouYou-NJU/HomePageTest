@@ -15,7 +15,7 @@ body {
 }
 .PeopleName {  /* 人名 */
 	color: #000000;
-	font-size: 24px;
+	font-size: 22px;
     font-family: "微软雅黑";
 }
 .Title1 {   /* 大标题*/
@@ -60,13 +60,13 @@ a:hover {
 
 .Context1 {  /* 正文1*/
 	color: #000000;
-	font-size: 19px;
+	font-size: 18px;
 	text-align: justify;
 	font-family: "微软雅黑";
 }
 .Mail1 {  /* 邮箱*/
 	color: #0B61E5;
-	font-size: 19px;
+	font-size: 16px;
 	font-family: "微软雅黑";
 }
 
