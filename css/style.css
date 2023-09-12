@@ -44,10 +44,12 @@ a:link {   /* 链接样式*/
 	font-family: "微软雅黑";
 }
 a:visited {
+	color: #000000;
 	text-decoration: none;
+	font-family: "微软雅黑";
 }
 a:hover {
-	color: #F2F1EB;
+	color: #B1040E;
 	text-decoration: none;
 }
 .Title3 {   /* 小标题*/
