@@ -9,7 +9,7 @@ document.getElementById('header-news').innerHTML = `
         <tr>
           <td width="5%" bgcolor="#B1040E"></td>
           <td valign="baseline" bgcolor="#B1040E" style="text-align: left; font-size: 24px; font-family: Georgia, 'Times New Roman', Times, serif; color: #FFFFFF;">
-            <p><strong>南京大学工程医学研究组</strong>（EngMed Group@NJU）</p>
+            <p><strong>南京大学工程医学研究组</strong> (EgrMed Group@NJU)</p>
             <p>Engineering Medicine Research Group, Nanjing University</p>
           </td>
         </tr>
