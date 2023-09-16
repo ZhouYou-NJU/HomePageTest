@@ -1,7 +1,6 @@
 body {
 	width: 880px; 
 	margin: 0 auto;
-	height: 100vh; /* 设置为视口高度的百分之百 */
     overflow: hidden; /* 隐藏溢出内容 */
 	/*margin-left: 12%;
 	margin-right: 12%;
