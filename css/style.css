@@ -1,7 +1,7 @@
 body {
 	width: 880px; 
 	margin: 0 auto;
-    overflow: hidden; /* 隐藏溢出内容 */
+    overflow-y: scroll; /* 垂直方向一直显示滚动条 */
 	/*margin-left: 12%;
 	margin-right: 12%;
 	margin-top: 1%;
