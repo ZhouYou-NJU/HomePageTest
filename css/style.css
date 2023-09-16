@@ -1,11 +1,22 @@
 body {
 	width: 880px; 
-	margin: 0 auto; 		
+	margin: 0 auto;
+    overflow: auto; /* 允许溢出内容时显示滚动条 */
+    padding: 0; /* 确保没有默认内边距 */
 	/*margin-left: 12%;
 	margin-right: 12%;
 	margin-top: 1%;
 	margin-bottom: 1%;
 */
+}
+
+.content-container { /* 设置网页内容容器 */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: auto; /* 允许溢出内容时显示滚动条 */
 }
 
 .feet {       /* 底部文字*/
